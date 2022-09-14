@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aniket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniket-mern/aniket-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniket-mern/aniket-mern/issues"
+  },
+  "homepage": "https://aniket-mern.github.io",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
